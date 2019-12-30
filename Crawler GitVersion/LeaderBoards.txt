@@ -1,0 +1,5 @@
+1: ekim          Floor: 16  Level: 16    Total Gold Collected: 116,814         Enemies killed: 24     Weapon Of Choice: Equivalence Principle   Stand: None, Version: 2.0.0
+2: kime          Floor: 12  Level: 12    Total Gold Collected: 72,575          Enemies killed: 22     Weapon Of Choice: Turing Sword   Stand: None, Version: 2.0.0
+3: mike          Floor: 11  Level: 15    Total Gold Collected: 105,688         Enemies killed: 23     Weapon Of Choice: Equivalence Principle   Stand: None, Version: 2.0.0
+4: 1             Floor: 10  Level: 9     Total Gold Collected: 32,003          Enemies killed: 9      Weapon Of Choice: Sword        Stand: None, Version: 2.0.0
+5: w             Floor: 9   Level: 8     Total Gold Collected: 14,926          Enemies killed: 6      Weapon Of Choice: The Babbage   Stand: None, Version: 2.0.0
