@@ -1,1 +1,2 @@
 1.0.0: Game now has a working Leaderboard and is fully playable.
+2.0.0: Game now has weapons: 3 different weapons all of different rarities.
