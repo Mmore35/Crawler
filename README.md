@@ -11,3 +11,6 @@ The gameplay is based on using randomness to make the game replayable and intere
 Refer to Versions.txt for update information. Refer to Leaderboards.txt too see if you made the top 5 spots.
 
 Ignore GUI.java for now (GUI.java is a modified version of a graphical user interface I found in a tutorial).
+
+My plans for this project are as follows: Make some sort of working GUI, debug, optimize.
+I want to finish this project by having an interface and orginized code I can be proud of.
