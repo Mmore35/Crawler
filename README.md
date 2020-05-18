@@ -1,10 +1,14 @@
-# Really-Unimpressive-Game
+# My-First-Game
 The first game I have made. It is an endless, dungeon crawler game. Text based made in Java. Eclipse IDE. May be updated later.
 Although this game nothing special, it is completely created by me. All of the ideas for the game where mine and mine alone and was created in my free time as a way to get better at coding. This project taught me so much about programing and is one of the first projects that I can say is totally mine. 
 
 # Gameplay
 
-The gameplay is based on using randomness to make the game replayable and interesting. Almost everything that can be random is including: level of enemies, rarity of gear obtained, distance until the next floor, if the player finds a chest or an enemy, and various other aspects.
+The gameplay is based on using randomness to make the game replayable and interesting. Almost everything that can be random is including: level of enemies, rarity of gear obtained, distance until the next floor, if the player finds a chest or an enemy, and various other aspects. Gameplay is shown in video.
+
+# LeaderBoard
+
+This game has a funtioning LeaderBoard system, where the player that makes it the deepest in the dungeon will have some stats and their name on LeaderBoard.txt as shown.
 
 # Other
 
